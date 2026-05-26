@@ -1,2 +1,9 @@
-# Python-Learning-Journey-
-My Python learning journey from scratch — exercises, mini projects and notes.
+# Python Learning Journey 🐍
+
+I am learning Python from scratch.
+This repository contains all my practice 
+code, exercises and mini projects.
+
+## Topics covered so far:
+- Variables & Data Types
+- For Loops
